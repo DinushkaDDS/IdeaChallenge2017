@@ -1,1 +1,2 @@
-# IdeaChallenge2017
+# ideamora.github.io
+Website of Idea Challenge 2017
